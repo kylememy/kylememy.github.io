@@ -22,7 +22,7 @@ button {
   white-space: nowrap;
   overflow: hidden;
   border-right: 2px solid black; /* Cursor */
-  width: 20ch; /* width matches the text length */
+  width: 21ch; /* width matches the text length */
   animation:
     typing 4s steps(20, end),
     blink-caret 0.75s step-end infinite;
