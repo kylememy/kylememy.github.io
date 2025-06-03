@@ -24,7 +24,7 @@ button {
   border-right: 2px solid black; /* Cursor */
   width: 24ch; /* width matches the text length */
   animation:
-    typing 4s steps(20, end),
+    typing 4s steps(24, end),
     blink-caret 0.75s step-end infinite;
 }
 
@@ -33,7 +33,7 @@ button {
     width: 0;
   }
   to {
-    width: 20ch;
+    width: 24ch;
   }
 }
 
